@@ -42,3 +42,26 @@ body{
     margin-bottom: 10vh;
     background-color: hsl(193, 100%, 96%);
 }
+
+.hero_grid{
+    display: grid;
+    grid-template-columns: 50fr 50fr;
+    width: 90vw;
+    /* height: 75vh; */
+    justify-content: center;
+    align-items: center;
+    margin: 2vh auto;
+    grid-gap: 2vw;
+    box-sizing: border-box;
+}
+.hero_txt h1{
+    font-size: 3.5rem;
+    line-height: 1.2;
+    margin-bottom: 3vh;
+    font-family: sans-serif;
+}
+.hero_txt p{
+    font-size: 1.8rem;
+    margin-bottom: 3vh;
+    /* font-family: sans-serif; */
+}
