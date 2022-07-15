@@ -30,3 +30,15 @@ body{
     font-weight: bolder;
     box-shadow: 0 5px 12px rgba(0, 0, 0, 0.192);
 }
+
+.hero{
+    background-image: url(images/bg-hero-desktop.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    padding: 2vh 5vw;
+    margin-bottom: 10vh;
+    background-color: hsl(193, 100%, 96%);
+}
