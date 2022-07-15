@@ -1,0 +1,12 @@
+@font-face {
+    font-family: Poppins;
+    src: url(https://fonts.google.com/specimen/Poppins);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(255, 254, 254);
+}
