@@ -174,5 +174,24 @@ footer{
     display: block;
     fill: white;
 }
+.footer_logo::before{
+    content: "Huddle";
+    z-index: 100;
+}
+.footer_btn{
+    padding: 2.5vh 4vw;
+}
+.footer_btn:hover{
+    background: hsl(322, 75%, 66%);
+}
 
+
+.social__media{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 2vw;
+}
+.social__media i{
+    font-size: 2.6rem;
+}
 
