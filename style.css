@@ -135,6 +135,23 @@ footer{
     position: absolute;
 }
 
-
+.footer_cta h1{
+    font-size: 2.3rem;
+    margin-bottom: 3vh;
+}
+.footer_grid{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    align-content: center;
+    align-items: center;
+    grid-gap: 2vw;
+    box-sizing: border-box;
+    padding-top: 23vh;
+    padding-bottom: 8vh;
+}
+.footer_txt{
+    font-size: 1.2rem;
+    margin: 2vh 0;
+}
 
 
