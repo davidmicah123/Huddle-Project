@@ -113,4 +113,28 @@ body{
 
 
 
+footer{
+    background: hsl(192, 100%, 9%);
+    margin-top: 22vh;
+    padding: 0 10vh;
+    color: #fff;
+    height: 100%;
+    padding-top: 0;
+}
+.footer_cta{
+    text-align: center;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.247);
+    width: 50vw;
+    padding: 7vh;
+    background: #fff;
+    color: black;
+    margin: 2vh auto;
+    border-radius: 1rem;
+    transform: translateY(-16vh);
+    margin-left: 20vw;
+    position: absolute;
+}
+
+
+
 
