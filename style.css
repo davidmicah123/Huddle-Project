@@ -153,5 +153,26 @@ footer{
     font-size: 1.2rem;
     margin: 2vh 0;
 }
+.footer_grid ul{
+    list-style: none;
+}
+.footer_grid ul li{
+    line-height: 2;
+    font-size: 1.2rem;
+}
+.footer__min_grid{
+    display: grid;
+    grid-template-columns: 1fr 8fr;
+    grid-gap: 1vw;
+    margin: 2vh 0;
+    align-content: center;
+    align-items: center;
+}
+.footer_logo{
+    /* width: 100%; */
+    /* font-size: 3rem; */
+    display: block;
+    fill: white;
+}
 
 
