@@ -1,1 +1,7 @@
 
+@media (max-width: 850px) {
+    .grid__2__cols{
+        grid-template-columns: 1fr;
+        padding: 5vh 4vw;
+        margin: 5vh auto;
+    }
