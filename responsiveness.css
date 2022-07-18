@@ -53,4 +53,18 @@
     .grid__2__cols{
         width: 94vw;
     }
+    
+    .grid_txt h1{
+        font-size: 1.5rem;
+    }
+    .grid_txt p{
+        font-size: 1.2rem;
+    }
+    .footer_cta{
+        padding: 5vh 3vw;
+    }
+    .footer_cta h1{
+        font-size: 2rem;
+        margin-bottom: 1vh;
+    }
 }
