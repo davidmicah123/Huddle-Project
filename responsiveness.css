@@ -43,3 +43,14 @@
     }
 }
 
+@media (max-width: 450px) {
+    .hero_txt h1{
+        font-size: 2.5rem;
+    }
+    .hero_btn{
+        padding: 2vh 5vw;
+    }
+    .grid__2__cols{
+        width: 94vw;
+    }
+}
