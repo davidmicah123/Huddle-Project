@@ -5,3 +5,17 @@
         padding: 5vh 4vw;
         margin: 5vh auto;
     }
+    .inverse{
+        grid-row: 1/2;
+        grid-column: 1/2;
+    }
+    .hero{
+        height: 100%;
+    }
+    .hero_grid{
+        grid-template-columns: 1fr;
+        grid-gap: 3vh;
+    }
+    .hero_txt{
+        text-align: center;
+    }
