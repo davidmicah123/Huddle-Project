@@ -35,3 +35,11 @@
     .footer_cta h1{
         font-size: 1.5rem;
     }
+    .social__media{
+        width: 70vw;
+        display: flex;
+        justify-content: space-between;
+        margin: 2vh auto;
+    }
+}
+
